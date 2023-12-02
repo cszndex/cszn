@@ -25,10 +25,6 @@
 
 ###
 
-<img align="left" height="200" src="https://media.discordapp.net/attachments/1117379815641718837/1180387751187709952/OIG.jpg?ex=657d3cc2&is=656ac7c2&hm=38d16355183e7b0309c4ea627aa7da9b307c0c611645be78d987cb562c77233b&"  />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/yaje">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=312ob2wlzwwug5i66kguaact4lki" alt="Spotify recently played"  />
