@@ -1,22 +1,48 @@
 <br clear="both">
 
-<h2 align="left">Hello, I'm Cszn, Developer of Hikari HUB 🌸</h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div align="center">
+  <a></a>
+</div>
+
+<h1 align="center">Hello, I'm Cszn, Owner of Hikari 🌸
+
+<br clear="both">
+
+<div align="center">
+  <a>
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <img width="12" />
+  <a>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  </a>
+  <img width="12" />
+  <a>
+  <img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=black&style=for-the-badge" height="30" alt="replit logo"  />
+  </a>
+</div>
+</h1>
 
 ###
 
 <br clear="both">
+
+## ☕ Known Language;
 
 <div align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
 </div>
 
 ###
+
+## 🔥 My Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cszndex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -24,6 +50,8 @@
 </div>
 
 ###
+
+## 🎵 Recently Played on Spotify:
 
 <div align="center">
   <a href="https://open.spotify.com/user/yaje">
